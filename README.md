@@ -67,7 +67,7 @@ Here’s a sample list of some Python projects (update as needed):
 ## 📬 Contact
 
 **Sonu Kumar**  
-📧 [your-email@example.com]  
+📧 [sonukumar25957@gmail.com]  
 🌐 [GitHub Profile](https://github.com/Sonukumar3552)
 
 ---
